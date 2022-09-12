@@ -13,4 +13,7 @@ If you need an intro to Github you can take a look at the following resources fr
 If you already have an account, and you just need to connect Github and Rstudio. 
 * [Let’s get them talking](https://happygitwithr.com/connect-intro.html#connect-intro)
 
+Need some help getting credentials into Rstudio?
+ * [Take a look at gitcreeds library](https://gitcreds.r-lib.org/). 
+
 ## Other resources.
