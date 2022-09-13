@@ -140,7 +140,26 @@ domain name.
 Make sure to pay your registration every year!!!
 
 
-## 
+
+## Search engine optimization (SEO)
+
+Linking everything will help us all 
+[rise to the top of search results](https://moz.com/beginners-guide-to-seo). 
+So link 
+
+- Departmental Website to Personal Website
+- Websites to Social Media
+- Social Media to Websites
+- Websites to Department, Advisor, Friends, etc
+- Ask Advisor, Friends to link to you
 
 
 
+# Where to go from here
+
+## Where to go from here
+
+Meet weekly to develop our websites. 
+If we go with the blogdown/netlify approach, 
+then 
+[start with these instructions](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/). 
