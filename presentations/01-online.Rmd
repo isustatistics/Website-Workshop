@@ -153,6 +153,10 @@ So link
 - Websites to Department, Advisor, Friends, etc
 - Ask Advisor, Friends to link to you
 
+At minimum, the goal is that if somebody searches for you, 
+[they find you](https://www.google.com/search?q=jarad+niemi). 
+
+
 
 
 # Where to go from here
