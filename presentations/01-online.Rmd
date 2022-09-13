@@ -64,5 +64,83 @@ The university has the most engagement on instagram.
   - Wordpress
   - Google Sites
   - GitHub Pages
-  - 
+  - blogdown/netlify
+  - wowchemy
+  
+  
+## Departmental Website
+
+The first thing you should do is 
+[create your profile](https://www.stat.iastate.edu/people/jarad-niemi) on the Departmental Website
+including
+
+- picture
+- education
+- contact
+
+You should be able to go to https://www.stat.iastate.edu/login and 
+then to your [personal page](https://www.stat.iastate.edu/people/jarad-niemi). 
+
+
+## ISU Website
+
+ISU allows you to create your own site using 
+[ISU Sites](https://sites.iastate.edu/).
+
+Jarad advises against this because when you leave the university it will be 
+gone.
+I suggest you use an alternative that will exist permanently. 
+
+
+## jekyll/github pages
+
+Jarad's
+[personal/professional website](https://www.jarad.me/) is hosted on
+[github pages](https://pages.github.com/) and 
+utilizes [jekyll-bootstrap](http://jekyllbootstrap.com/).
+The [code is all available on github](https://github.com/jarad/jarad.github.com). 
+
+Is this now the old-school way of doing it?
+
+
+## blogdown/netlify
+
+If you are just starting, 
+Jarad's suggests you use 
+[blogdown](https://bookdown.org/yihui/blogdown/) and host your site with 
+[netlify](https://www.netlify.com/) 
+following [these instructions](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/).
+
+
+Jarad is creating a [website for the NCCC-170](https://nccc170.netlify.app/) 
+group using this approach. 
+The [code is available on github](https://github.com/NCCC-170/nccc170-website). 
+
+
+## wowchemy
+
+[Ricardo Batista's website](https://www.ricardobatista.com/) uses wowchemy. 
+What does that even mean?
+
+
+
+# Other topics
+
+## Personalized domain names
+
+You'll notice that our personal/professional websites have custom domain names
+
+- [jarad.me](https://www.jarad.me/)
+- [ricardobatista.com](https://www.ricardobatista.com/)
+
+To buy a domain name, find a domain name registrar and buy a currently unused
+domain name. 
+[Domain names are pretty cheap](https://www.namecheap.com/domains/). 
+
+Make sure to pay your registration every year!!!
+
+
+## 
+
+
 
