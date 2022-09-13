@@ -2,6 +2,17 @@
 
 Welcome to the repository for the website workshop. The objective for this repo is to hold useful link and resources.
 
+## Department website.
+
+You can edit your personal departmental site on http://stat.iastate.edu/login/ and log in using your single sign-on credentials.
+
+Next, click on “My Public Profile” in the top bar, and enter your information (including your current office number) in Snedecor. 
+
+There is also a place to enter a bio, link your website, and upload a CV. 
+
+Note, that you do not need to add a phone number, but if you do, please understand that it will be published on the website. 
+
+Please upload a profile pic, and add any other information you would like to include.
 
 
 ## Github
