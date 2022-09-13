@@ -1,0 +1,68 @@
+---
+title: "Online Presence"
+author: "Jarad Niemi"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    incremental: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Online Presence
+
+Goal: Showcase your work and skills to help you obtain your ideal job.
+
+- Websites
+- Social Media
+
+# Social Media
+
+## Social Media
+
+![](fig/social_media_platforms.jpg){width=90%}
+
+## LinkedIn {data-background="linkedin.png"}
+
+Employers are now scraping LinkedIn to find potential hires with relevant skills
+
+- Create a [LinkedIn profile](https://www.linkedin.com/in/jaradniemi/)
+- Add experience, education, skills, publications
+- Follow [ISU Department of Statistics](https://www.linkedin.com/company/isu-department-of-statistics/)
+- Join [Iowa State University Department of Statistics](https://www.linkedin.com/groups/8509211/)
+- Be active (?) by posting, liking, etc
+
+
+## Facebook
+
+- Create a [Facebook profile](https://www.facebook.com/jaradniemi)
+- Follow [ISU Department of Statistics](https://www.facebook.com/isustatistics)
+- Join [Iowa State University Statistics Graduate Students and Alumni](https://www.facebook.com/groups/StatGradISU)
+- Be active (?) by posting, liking, etc
+
+
+## Instagram
+
+The university has the most engagement on instagram. 
+
+- Create an [Instagram profile](https://www.instagram.com/jaradniemi/)
+- Follow [ISU Department of Statistics](https://www.instagram.com/isustatistics/)
+- Be active (?) by posting, liking, etc
+
+
+# Websites
+
+## Possibilities
+
+- Departmental Website
+- Personal/Professional Website
+  - ISU Website
+  - wix.com
+  - Wordpress
+  - Google Sites
+  - GitHub Pages
+  - 
+
