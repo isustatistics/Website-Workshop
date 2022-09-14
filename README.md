@@ -27,4 +27,11 @@ If you already have an account, and you just need to connect Github and Rstudio.
 Need some help getting credentials into Rstudio?
  * [Take a look at gitcreeds library](https://gitcreds.r-lib.org/). 
 
+
+## The netlify route for deployment.
+First step is to create a free account here:
+
+* [Netlify](https://www.netlify.com/)
+
+
 ## Other resources.
