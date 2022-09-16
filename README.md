@@ -40,6 +40,9 @@ First step is to create a free account here:
 
 * [Netlify](https://www.netlify.com/)
 
+### Some templates :
+
+ * [Wowcehemy](https://wowchemy.com/): Instruction to deploy on Netlify included.
 
 ## Example websites
 
