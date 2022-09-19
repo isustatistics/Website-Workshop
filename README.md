@@ -54,5 +54,5 @@ First step is to create a free account here:
 
 - [NCCC-170 website](https://nccc170.netlify.app/) and its [code](https://github.com/NCCC-170/nccc170-website)
 
-## [Blog Down/Netlify]: Trial and error.
+### [Blog Down/Netlify] ~ following tutorial in Wowchemy.
  - [Fede's website](https://fveneri.netlify.app/)
