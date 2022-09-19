@@ -47,18 +47,29 @@ Once the repo is created, we can modify it. Some options include:
 -	[Using CMS from your site](https://wowchemy.com/docs/getting-started/hugo-cms/)
 -	Changing the code in Github directly. 
 -	Using R studio, then push changes to Github. ( I used this option)
+
 ## What can I edit my site? A lot, but is a bit confusing.
-The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/page-builder/). You could create your own. 
+
+The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/page-builder/). 
+You could create your own. 
+
 ### Fist steps: Editing the Bio and welcome page.
 In your repo (or local copy), search for ‘content/authors/admint/_index.md’
+
 There you can change your experience, add a short bio and your work experience.
+
 ### Second step: Simplify your welcome page (remove the wowchemy welcome).
+
 The first thing that appear in your site is a demo + a hero widget. We can deactivate those.
+
 1.	Deactivate the green demo page.
 In your repo (or local copy), search for ‘content/home/demo.md’
+
 And toggle: active = false   on line ~8, this will deactivate the green demo page. 
+
 2.	Deactivate the hero landing page.
 ?
+
 ### Creating a publication.
 ### Creating a project.
 ### Other cool stuff.
