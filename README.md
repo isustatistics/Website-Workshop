@@ -53,3 +53,6 @@ First step is to create a free account here:
 ### [Blogdown/Netlify](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/)
 
 - [NCCC-170 website](https://nccc170.netlify.app/) and its [code](https://github.com/NCCC-170/nccc170-website)
+
+## [Blog Down/Netlify]: Trial and error.
+ - [Fede's website](https://fveneri.netlify.app/)
