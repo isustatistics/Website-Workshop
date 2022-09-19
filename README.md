@@ -20,7 +20,6 @@ and add any other information you would like to include.
 
 ## Personal website
 
-Updating your department website is a first good step in 
 
 ### Github
 The first step is making sure you have your Git account up and running. 
