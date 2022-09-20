@@ -56,7 +56,7 @@ You could create your own.
 ### Fist steps: Editing the Bio and welcome page.
 In your repo (or local copy), search for ‘content/authors/admint/_index.md’
 
-There you can change your experience, add a short bio and your work experience.
+There you can change your education, add a short bio. Change the main picture.
 
 ### Second step: Simplify your welcome page (remove the wowchemy welcome).
 
@@ -70,6 +70,9 @@ And toggle: active = false   on line ~8, this will deactivate the green demo pag
 2.	Deactivate the hero landing page.
 
 ?
+
+### Third step: Change your work experience.
+
 
 ### Creating a publication.
 ### Creating a project.
