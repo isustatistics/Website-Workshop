@@ -51,7 +51,7 @@ Once the repo is created, we can modify it. Some options include:
 ## What can I edit on my site? A lot, but is a bit confusing.
 
 The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/page-builder/). 
-You could create your own. 
+You could create your own or use the ones already made.
 
 ### Fist steps: Editing the Bio and welcome page.
 In your repo (or local copy), search for ‘content/authors/admint/_index.md’
