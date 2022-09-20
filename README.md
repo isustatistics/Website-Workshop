@@ -31,12 +31,16 @@ Please upload a profile pic, add your education history, and add any other infor
 [Blog Down/Netlify] ~ following tutorial in Wowchemy.
  - [Fede's website](https://fveneri.netlify.app/)
  
+ 
+ 
 ## The netlify route for deployment.
-First step is to create a free account here:
+
+Create accounts
+* [GitHub](https://github.com/)
 * [Netlify](https://www.netlify.com/)
 
 Once the account is created, we can choose a template from here:
- * [Wowcehemy](https://wowchemy.com/): Instruction to deploy on Netlify included.
+ * [Wowchemy](https://wowchemy.com/): Instruction to deploy on Netlify included.
 Following the steps, we will have created a Netlify site + a repo in Github.
 Take a look at your site, does it work?
 ## The github pages route for deployment.
