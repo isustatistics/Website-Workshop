@@ -63,9 +63,10 @@ In your repo (or local copy), search for ‘content/authors/admin/_index.md’
 
 There you can change:
 
-1. your education
-2. add a short bio
-3. Change the main picture.
+1. your education: Edit the text below -Education to show in About widget
+2. add a short bio: Edit the text at bio:
+3. add a Long bio for the welcome page: Edit the text at the bottom of the page.
+4. Change the main picture:...
 
 ### Simplify your welcome page (remove the wowchemy welcome).
 
@@ -73,7 +74,6 @@ The first thing that appear in your site is a demo + a hero widget. We can deact
 
 1.	Deactivate the green demo page.
 In your repo (or local copy), search for ‘content/home/demo.md’
-
 And toggle: active = false   on line ~8, this will deactivate the green demo page. 
 
 
