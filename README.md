@@ -58,12 +58,12 @@ Once the repo is created, we can modify it. Some options include:
 The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/page-builder/). 
 You could create your own or use the ones already made.
 
-### Fist steps: Editing the Bio and welcome page.
+### Editing the Bio and welcome page.
 In your repo (or local copy), search for ‘content/authors/admin/_index.md’
 
 There you can change your education, add a short bio. Change the main picture.
 
-### Second step: Simplify your welcome page (remove the wowchemy welcome).
+### Simplify your welcome page (remove the wowchemy welcome).
 
 The first thing that appear in your site is a demo + a hero widget. We can deactivate those.
 
@@ -76,7 +76,9 @@ And toggle: active = false   on line ~8, this will deactivate the green demo pag
 
 ?
 
-### Third step: Change your work experience.
+### Change your work experience.
+
+### Adding your CV.
 
 ### Changing your email/contact info.
 
