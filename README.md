@@ -68,6 +68,7 @@ In your repo (or local copy), search for ‘content/home/demo.md’
 And toggle: active = false   on line ~8, this will deactivate the green demo page. 
 
 2.	Deactivate the hero landing page.
+
 ?
 
 ### Creating a publication.
