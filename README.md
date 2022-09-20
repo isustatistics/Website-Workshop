@@ -48,7 +48,7 @@ Once the repo is created, we can modify it. Some options include:
 -	Changing the code in Github directly. 
 -	Using R studio, then push changes to Github. ( I used this option)
 
-## What can I edit my site? A lot, but is a bit confusing.
+## What can I edit on my site? A lot, but is a bit confusing.
 
 The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/page-builder/). 
 You could create your own. 
