@@ -59,7 +59,7 @@ The site is built around [Widgets]( https://wowchemy.com/docs/getting-started/pa
 You could create your own or use the ones already made.
 
 ### Fist steps: Editing the Bio and welcome page.
-In your repo (or local copy), search for ‘content/authors/admint/_index.md’
+In your repo (or local copy), search for ‘content/authors/admin/_index.md’
 
 There you can change your education, add a short bio. Change the main picture.
 
