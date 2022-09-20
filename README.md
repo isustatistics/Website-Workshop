@@ -78,6 +78,7 @@ And toggle: active = false   on line ~8, this will deactivate the green demo pag
 
 ### Third step: Change your work experience.
 
+### Changing your email/contact info.
 
 ### Creating a publication.
 ### Creating a project.
