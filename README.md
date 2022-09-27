@@ -66,7 +66,7 @@ There you can change:
 1. your education: Edit the text below -Education to show in About widget
 2. add a short bio: Edit the text at bio:
 3. add a Long bio for the welcome page: Edit the text at the bottom of the page.
-4. Change the main picture: in the author folder, there a file called 'avatar.jpg'. You can replate this by your own profile pictures.
+4. Change the main picture: in the author folder, there is a file called 'avatar.jpg'. You can replace this with your profile pictures by uploading a new file with the same name. 
 
 ### Simplify your welcome page (remove the wowchemy welcome).
 
