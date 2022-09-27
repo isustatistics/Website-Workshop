@@ -76,6 +76,16 @@ The first thing that appear in your site is a demo + a hero widget. We can deact
 In your repo (or local copy), search for ‘content/home/demo.md’
 And toggle: active = false   on line ~8, this will deactivate the green demo page. 
 
+2. You may want to change the top navigation button, meaning the links to each part of your site.
+	You can change that in the configuration file withing config folder.
+	Config/menus.yaml
+
+So here, you will have something like this
+-	 name: About
+ 	       url: '#about'
+   	       weight: 10
+The name is what you will display in the navigation bar, and the url is what you want to be linked to.
+	weight probably has something to do with the size. 
 
 
 ### Change your work experience.
