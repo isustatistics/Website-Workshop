@@ -67,7 +67,6 @@ There you can change:
 2. add a short bio: Edit the text at bio:
 3. add a Long bio for the welcome page: Edit the text at the bottom of the page.
 4. Change the main picture: in the author folder, there is a file called 'avatar.jpg'. You can replace this with your profile pictures by uploading a new file with the same name. 
-5. In order to remove a particular section (eg: talks, tags), go to 
 
 ### Simplify your welcome page (remove the wowchemy welcome).
 
