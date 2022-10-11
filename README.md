@@ -31,7 +31,7 @@ Please upload a profile pic, add your education history, and add any other infor
 [Blog Down/Netlify] ~ following tutorial in Wowchemy.
  - [Fede's website](https://fveneri.netlify.app/)
  - [Ricardo's website](https://www.ricardobatista.com/)
- 
+ - [ISU](https://www.stat.iastate.edu/)
  
  
 ## The netlify route for deployment.
