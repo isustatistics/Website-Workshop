@@ -94,6 +94,12 @@ The name is what you will display in the navigation bar, and the url is what you
 1. Search for the markdown file for the section you want to delete eg ‘content/home/talks.md’
 2. Add a line active: false  below the line headless: true
 
+### Activate LaTex (to use on the website)
+
+1. Go to params.yaml file in ‘config/_default’ folder
+2. Under the site features, enable math option. This can be done by changing enable: false to enable: true
+
+
 ### Change your work experience.
 
 ### Adding your CV.
