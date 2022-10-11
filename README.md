@@ -33,6 +33,7 @@ Please upload a profile pic, add your education history, and add any other infor
  - [Ricardo's website](https://www.ricardobatista.com/)
  - [ISU](https://www.stat.iastate.edu/)
  - [Ben's Website](https://bjacobsstats.github.io/)
+ - [Laura's website](https://lauraziegler.netlify.app/)
  
  
 ## The netlify route for deployment.
