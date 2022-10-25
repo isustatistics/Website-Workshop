@@ -104,7 +104,19 @@ The name is what you will display in the navigation bar, and the url is what you
 
 ### Change your work experience.
 
-### Adding your CV.
+### Adding your CV and other 
+
+The easiest way to add your CV is using the default configuration provided in the demo version of the site.
+Content can be uploaded into the ‘static\uploads’ folder  and create a download button in your about page.
+
+1. Create your cv in a nice format and export it as a PDF.
+2. Upload your CV to ‘static\uploads’,  for reference I will call it ‘CV2022.pdf’
+3. In your about page, you can add after your bio:
+	
+"{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}"
+This will generate a link on the about section. Once clicked a new window will open (hence ‘newtab’ option) and a download will begin for CV2022.pdf
+This could be useful also if you want to create options to download material from your site. 
+
 
 ### Changing your email/contact info.
 
