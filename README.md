@@ -20,13 +20,9 @@ Please upload a profile pic, add your education history, and add any other infor
 
 ## Example websites
 
-[Jekyll-Bootstrap/Github Pages](http://jekyllbootstrap.com/)
 
-- [Jarad Niemi's website](https://www.jarad.me/) and its [code](https://github.com/jarad/jarad.github.com)
 
-[Blogdown/Netlify](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/)
 
-- [NCCC-170 website](https://nccc170.netlify.app/) and its [code](https://github.com/NCCC-170/nccc170-website)
 
 [Blog Down/Netlify] ~ following tutorial in Wowchemy.
  - [Fede's website](https://fveneri.netlify.app/)
@@ -35,6 +31,14 @@ Please upload a profile pic, add your education history, and add any other infor
  - [Laura's website](https://lauraziegler.netlify.app/)
  - [Aditya's website](https://adityaranade.netlify.app/)
  - [Spencer's website](https://spencergordon.netlify.app/)
+ 
+[Blogdown/Netlify](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/)
+
+- [NCCC-170 website](https://nccc170.netlify.app/) and its [code](https://github.com/NCCC-170/nccc170-website) 
+ 
+[Jekyll-Bootstrap/Github Pages](http://jekyllbootstrap.com/)
+
+- [Jarad Niemi's website](https://www.jarad.me/) and its [code](https://github.com/jarad/jarad.github.com) 
  
  
 ## The netlify route for deployment.
